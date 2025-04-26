@@ -64,3 +64,16 @@
 </p>
 
 ---
+
+### 🛠️ **Language Usage (Visual Bars)**
+
+<!-- Custom bars for languages based on your usage -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-100%25-green?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-80%25-cyan?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-75%25-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-70%25-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-60%25-lightblue?style=for-the-badge&logo=python&logoColor=white" />
+</p>
