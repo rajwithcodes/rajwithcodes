@@ -1,14 +1,10 @@
-<h1 align="center">
-  Hi 👋, I'm Raj Singhania
+<h1 align="center" style="font-family: 'Roboto', sans-serif; font-size: 3em;">
+  Hi 👋, I'm Raj Singhania 🚀
 </h1>
-<h3 align="center">
-  A passionate developer exploring new technologies and building efficient, scalable, and secure applications.
-</h3>
 
-<!-- Animated Background -->
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="100%" alt="animated background gif" />
-</p>
+<h3 align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.5em;">
+  A passionate developer exploring new technologies 💻 and building efficient, scalable, and secure applications 🛠️.
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajwithcodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,11 +13,12 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **AI/ML** and **DevOps**.
-- 👨‍💻 All my projects are available at [**rajsinghania.co.in**](https://rajsinghania.co.in)
-- 📝 I regularly write articles at [**rajsinghania.co.in**](https://rajsinghania.co.in)
-- 💬 Ask me about **Java**, **MERN Stack**.
-- 📫 Reach me at **rajsinghania893@gmail.com**
+
+- 🌱 I’m currently learning **AI/ML 🤖** and **DevOps ⚙️**.
+- 👨‍💻 All my projects are available at [**rajsinghania.co.in** 🌐](https://rajsinghania.co.in)
+- 📝 I regularly write articles at [**rajsinghania.co.in** ✍️](https://rajsinghania.co.in)
+- 💬 Ask me about **Java ☕**, **MERN Stack 🌱**.
+- 📫 Reach me at **rajsinghania893@gmail.com** 📧
 - ⚡ Fun fact: **I'm very lazzzzy 😴**
 
 ---
@@ -30,13 +27,19 @@
 
 <p align="center">
   <a href="https://instagram.com/rajsinghania.o" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="transition: 0.3s ease;"/>
   </a>
   <a href="https://www.hackerrank.com/rajsinghania893" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" style="transition: 0.3s ease;"/>
   </a>
   <a href="https://leetcode.com/rajsinghania893/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" style="transition: 0.3s ease;"/>
+  </a>
+  <a href="https://twitter.com/rajwithcodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" style="transition: 0.3s ease;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajwithcodes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" style="transition: 0.3s ease;"/>
   </a>
 </p>
 
@@ -61,7 +64,3 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/rajwithcodes/rajwithcodes/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
