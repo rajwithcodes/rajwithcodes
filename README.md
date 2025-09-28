@@ -1,242 +1,243 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJ%20SINGHANIA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%F0%9F%9A%80%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20CODE%20ARCHITECT&descSize=16&descAlignY=51"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=500&height=70&lines=Raj+Singhania" alt="Name" />
+  </h1>
+  
+  <h2 style="color: #6B7280; font-weight: 400; margin-top: -10px;">
+    Full Stack Developer & Data Scientist
+  </h2>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=18&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=false&width=600&lines=Building+digital+solutions+with+precision;Transforming+data+into+actionable+insights;Creating+seamless+user+experiences" alt="Description" />
+  </div>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3C%F0%9F%92%BB+WELCOME+TO+MY+DIGITAL+REALM+%2F%3E;%7B+CRAFTING+CODE+%26+BUILDING+DREAMS+%7D;%5B+TRANSFORMING+IDEAS+INTO+REALITY+%5D" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300"/>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+digital+solutions+with+precision;Transforming+data+into+insights;Creating+seamless+user+experiences" alt="Typing SVG" />
+  </h3>
 </div>
 
 <br/>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=39FF14&center=true&width=600&lines=System.out.println(%22Hello+World!%22);console.log('Building+the+Future');print('One+Algorithm+at+a+Time');echo+'Passionate+Developer';%3C%3F+Code+%7C+Create+%7C+Innovate+%3F%3E)](https://git.io/typing-svg)
-
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-6366F1?style=flat-square&labelColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Location-New%20Delhi,%20India-10B981?style=flat-square&labelColor=1F2937"/>
+  <img src="https://komarev.com/ghpvc/?username=rajwithcodes&style=flat-square&color=6366F1&labelColor=1F2937"/>
+  <img src="https://img.shields.io/github/followers/rajwithcodes?style=flat-square&color=10B981&labelColor=1F2937&logo=github"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40"> **NEURAL NETWORK PROFILE**</div>
+## 👋 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Developer" width="400" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"/>
 
 ```python
-class RajSinghania:
+class Developer:
     def __init__(self):
-        self.username = "rajwithcodes"
         self.name = "Raj Singhania"
-        self.position = "Full Stack Developer"
-        self.web = "https://rajsinghania.co.in"
-        self.twitter = "@rajwithcodes"
-        self.code = {
-            'frontend': ['React', 'Vue.js', 'Next.js', 'TypeScript'],
-            'backend': ['Node.js', 'Java', 'Python', 'Express'],
-            'database': ['MongoDB', 'PostgreSQL', 'MySQL'],
-            'devops': ['Docker', 'Linux', 'Git', 'CI/CD'],
-            'tools': ['VS Code', 'Postman', 'Figma', 'Firebase']
+        self.role = "Full Stack Developer & Data Scientist"
+        self.location = "New Delhi, India"
+        self.languages = ["Python", "JavaScript", "Java", "C", "C++"]
+        self.current_focus = "AI-powered applications"
+        
+    def get_skills(self):
+        return {
+            "frontend": ["React.js", "Next.js", "HTML5", "CSS3"],
+            "backend": ["Node.js", "Express.js", "RESTful APIs"],
+            "data_science": ["Pandas", "NumPy", "Scikit-learn"],
+            "databases": ["MongoDB", "MySQL"],
+            "cloud": ["AWS"],
+            "tools": ["Docker", "Git", "VS Code"]
         }
-        self.architecture = ['Microservices', 'Event-Driven', 'Serverless']
-        
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-        
-    def current_focus(self):
-        return "Building scalable AI-powered applications"
-        
-    def available_for(self):
-        return ['Full-time opportunities', 'Freelance projects', 'Collaborations']
-
-me = RajSinghania()
-me.say_hi()
+    
+    def currently_working_on(self):
+        return "Building scalable web applications with ML integration"
 ```
 
-<br clear="both">
+<br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> **QUANTUM CONNECTIONS**</div>
+## 🌐 Connect With Me
 
 <div align="center">
-  
-<a href="https://www.linkedin.com/in/rajwithcodes/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/rajwithcodes">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter">
-</a>
-<a href="https://instagram.com/rajsinghania.o">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram">
-</a>
-<a href="https://rajsinghania.co.in">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35" alt="Portfolio">
-</a>
-<a href="mailto:rajsinghania893@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail">
-</a>
+  <a href="https://www.linkedin.com/in/rajwithcodes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://rajsinghania.co.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white&labelColor=6366F1" alt="Portfolio"/>
+  </a>
+  <a href="mailto:rajsinghania893@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/rajwithcodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://www.hackerrank.com/rajsinghania893" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=00EA64" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/rajsinghania893/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://instagram.com/rajsinghania.o" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+### Web Development
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### Data Science & Analytics
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
+### Databases & Cloud
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### Tools & Platforms
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+### Data Visualization
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </div>
 
-<div align="center">
-  
-<a href="https://www.hackerrank.com/rajsinghania893">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64" alt="HackerRank">
-</a>
-<a href="https://leetcode.com/rajsinghania893/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode">
-</a>
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajwithcodes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e5e7eb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwithcodes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajwithcodes&style=for-the-badge&color=blueviolet&labelColor=000000" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/rajwithcodes?style=for-the-badge&color=00FFFF&labelColor=000000&logo=github" alt="GitHub Followers"/>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajwithcodes&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="100"> **TECH ARSENAL** <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"></div>
-
-<div align="center">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> **FRONTEND MASTERY**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,sass&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30"> **BACKEND DOMINANCE**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,fastapi,cpp,c&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> **DATABASE & CLOUD**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,aws,docker,kubernetes&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="30"> **DEVOPS & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,vscode,postman,figma&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> **MOBILE & CROSS-PLATFORM**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark" />
-
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajwithcodes&bg_color=0d1117&color=e5e7eb&line=6366f1&point=ffffff&area=true&hide_border=true"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100"> **GITHUB MATRIX** <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100"></div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajwithcodes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwithcodes&layout=compact&langs_count=12&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
-</div>
+## 📈 Skills Overview
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajwithcodes&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajwithcodes&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajwithcodes&theme=matrix&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> **CODING METRICS**</div>
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Weekly Development Breakdown**
 
 ```text
-💻 Programming Languages:
-JavaScript   ████████████████████░   87.2% 
-TypeScript   █████████░░░░░░░░░░░░   43.1%
-Python       ███████░░░░░░░░░░░░░░   32.8%
-Java         ████░░░░░░░░░░░░░░░░░   21.4%
-HTML/CSS     ███░░░░░░░░░░░░░░░░░░   18.7%
-C++          ██░░░░░░░░░░░░░░░░░░░   12.3%
+💻 Programming Proficiency:
+Python       ████████████████████░   92.5% 
+JavaScript   ████████████████░░░░░   78.8%
+Java         ███████████░░░░░░░░░░   54.3%
+C++          ██████░░░░░░░░░░░░░░░   32.1%
+C            ████░░░░░░░░░░░░░░░░░   21.7%
+SQL          ███░░░░░░░░░░░░░░░░░░   18.9%
 ```
 
 ```text
-🔥 Frameworks & Tools:
-React.js     ████████████████████░   89.5%
-Node.js      ████████████████░░░░░   78.2%
-Next.js      ███████████████░░░░░░   65.8%
-Spring Boot  ████████████░░░░░░░░░   54.3%
-MongoDB      ██████████░░░░░░░░░░░   47.6%
-Docker       ██████░░░░░░░░░░░░░░░   34.2%
+🚀 Technology Focus:
+Full Stack   ████████████████████░   89.2%
+Data Science ████████████████░░░░░   76.5%
+Web APIs     ███████████████░░░░░░   68.3%
+Cloud Tech   ████████████░░░░░░░░░   55.8%
+ML/AI        ██████████░░░░░░░░░░░   47.6%
+DevOps       █████████░░░░░░░░░░░░   42.1%
 ```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"> **MISSION 2024** <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"></div>
+## 🎯 Current Goals
 
 <div align="center">
+
+### **2024 Roadmap**
 
 ```yaml
-Goals:
-  Learning: 
-    - Advanced AI/ML Integration
-    - Blockchain Development
-    - Cloud Architecture (AWS/GCP)
-    - GraphQL & Microservices
-  
-  Building:
-    - 🚀 3 Full-Stack SaaS Applications
-    - 🤖 AI-Powered Development Tools  
-    - 📱 Cross-Platform Mobile Apps
-    - 🌐 Open Source Contributions
-  
-  Community:
-    - 📝 Technical Blog Writing
-    - 🎤 Speaking at Tech Conferences
-    - 👥 Mentoring Developers
-    - 🏆 Hackathon Participation
+Learning & Growth:
+  - Advanced AI/ML Integration     ████████████████████░░░░░ 75%
+  - Cloud Architecture & DevOps    ████████████░░░░░░░░░░░░░ 50%
+  - System Design Patterns        █████████░░░░░░░░░░░░░░░░ 35%
 
-  Targets:
-    - 🌟 1000+ GitHub Stars
-    - 👥 5000+ LinkedIn Connections
-    - 📚 50+ Technical Articles
-    - 🏅 Top Contributor Badge
+Building & Creating:
+  - Full-Stack AI Applications     ███████████████░░░░░░░░░░ 60%
+  - Open Source Contributions     ███████████░░░░░░░░░░░░░░ 45%
+  - Technical Blog & Content      ████████░░░░░░░░░░░░░░░░░ 30%
+
+Professional Development:
+  - Industry Certifications       ██████░░░░░░░░░░░░░░░░░░░ 25%
+  - Tech Community Engagement     █████████████░░░░░░░░░░░░ 55%
+  - Mentorship & Leadership       ███████░░░░░░░░░░░░░░░░░░ 30%
 ```
 
 </div>
 
+---
 
+## 💡 What I'm Working On
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+- 🔭 Building **scalable web applications** with AI/ML integration
+- 🌱 Learning **advanced cloud architecture** and **microservices**
+- 👯 Looking to collaborate on **open source projects** and **innovative startups**
+- 💬 Ask me about **full-stack development**, **data science**, and **system architecture**
+- 📫 Reach me at: **rajsinghania893@gmail.com**
+- ⚡ Fun fact: **I believe the best code is code that doesn't need comments**
+
+---
 
 <div align="center">
+  
+### 💼 Open to Opportunities
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100"> **SUPPORT MY WORK**
-
-<a href="https://www.buymeacoffee.com/rajsinghania" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-</a>
-<a href="https://ko-fi.com/rajsinghania" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi">
-</a>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Remote-Preferred-blue?style=for-the-badge&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Full%20Time-Open-orange?style=for-the-badge&labelColor=1F2937"/>
 
 </div>
 
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=KEEP%20CODING!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75&desc=Thanks%20for%20visiting%20my%20digital%20space!%20%F0%9F%9A%80&descSize=14&descAlignY=90"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 </div>
 
 <div align="center">
-
-**"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."** - Martin Fowler
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
+  <i>"Code is poetry written in logic"</i>
 </div>
