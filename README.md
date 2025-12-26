@@ -188,7 +188,7 @@ DevOps       █████████░░░░░░░░░░░░   4
 
 <div align="center">
 
-### **2024 Roadmap**
+### **2026 Roadmap**
 
 ```yaml
 Learning & Growth:
